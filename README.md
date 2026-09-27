@@ -50,3 +50,6 @@ This project is actively evolving as I improve the product workflows, AI capabil
 Built by [Kalyan](https://github.com/kalyan870).
 
 Feedback and suggestions are welcome.
+## Repository status and reproducibility
+
+This repository currently contains the product overview and presentation images, but not the application source or install files. The architecture description is conceptual, not verified against code in this repo. The hosted demo link is retained from the original project notes; availability may change. Add the frontend/backend implementation, data model, setup instructions, and safe demo data to make the project reproducible.
