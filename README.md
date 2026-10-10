@@ -2,7 +2,7 @@
 
 Pulse PMS is an AI-powered property management platform for organizing tenants, leases, rent payments, occupancy, and property operations in one intelligent workspace.
 
-> **Demo status:** No verified public deployment is currently linked.`n`n
+
 ## Product overview
 
 Property managers need a clear view of their properties, tenants, payments, and operational risks. Pulse PMS combines a structured management dashboard with AI-assisted insights and smart workflows.
@@ -36,7 +36,9 @@ The system is designed around a modern full-stack workflow with a responsive fro
 
 AI Applications • Property Management • Dashboards • Analytics • Automation • RAG Workflows • Full-Stack Development
 
-## Demo status`n`nNo verified Pulse PMS demo is currently available. The previous URL served an unrelated InterviewIQ application, so it has been removed.
+## Demo status
+
+No verified Pulse PMS demo is currently available. The previous URL served an unrelated InterviewIQ application, so it has been removed.
 
 ## Project status
 
@@ -47,6 +49,7 @@ This repository is a project showcase. Product workflows and AI capabilities des
 Built by [Kalyan](https://github.com/kalyan870).
 
 Feedback and suggestions are welcome.
+
 ## Repository status and reproducibility
 
 This repository currently contains the product overview and presentation images, but not the application source or install files. The architecture description is conceptual, not verified against code in this repo. A previously listed URL was removed because it served an unrelated InterviewIQ application. No verified live deployment is currently linked. Add the frontend/backend implementation, data model, setup instructions, and safe demo data to make the project reproducible.
