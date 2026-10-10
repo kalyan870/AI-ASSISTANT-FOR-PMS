@@ -2,8 +2,7 @@
 
 Pulse PMS is an AI-powered property management platform for organizing tenants, leases, rent payments, occupancy, and property operations in one intelligent workspace.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Pulse%20PMS-2ea44f?style=for-the-badge)](https://frontend-kalyan870s-projects.vercel.app/)
-
+> **Demo status:** No verified public deployment is currently linked.`n`n
 ## Product overview
 
 Property managers need a clear view of their properties, tenants, payments, and operational risks. Pulse PMS combines a structured management dashboard with AI-assisted insights and smart workflows.
@@ -37,13 +36,11 @@ The system is designed around a modern full-stack workflow with a responsive fro
 
 AI Applications • Property Management • Dashboards • Analytics • Automation • RAG Workflows • Full-Stack Development
 
-## Live demo
-
-[Open Pulse PMS](https://frontend-kalyan870s-projects.vercel.app/)
+## Demo status`n`nNo verified Pulse PMS demo is currently available. The previous URL served an unrelated InterviewIQ application, so it has been removed.
 
 ## Project status
 
-This project is actively evolving as I improve the product workflows, AI capabilities, and user experience.
+This repository is a project showcase. Product workflows and AI capabilities described above are proposed features; the application source is not included here.
 
 ## Author
 
@@ -52,4 +49,4 @@ Built by [Kalyan](https://github.com/kalyan870).
 Feedback and suggestions are welcome.
 ## Repository status and reproducibility
 
-This repository currently contains the product overview and presentation images, but not the application source or install files. The architecture description is conceptual, not verified against code in this repo. The hosted demo link is retained from the original project notes; availability may change. Add the frontend/backend implementation, data model, setup instructions, and safe demo data to make the project reproducible.
+This repository currently contains the product overview and presentation images, but not the application source or install files. The architecture description is conceptual, not verified against code in this repo. A previously listed URL was removed because it served an unrelated InterviewIQ application. No verified live deployment is currently linked. Add the frontend/backend implementation, data model, setup instructions, and safe demo data to make the project reproducible.
