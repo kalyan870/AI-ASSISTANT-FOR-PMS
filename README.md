@@ -53,3 +53,8 @@ Feedback and suggestions are welcome.
 ## Repository status and reproducibility
 
 This repository currently contains the product overview and presentation images, but not the application source or install files. The architecture description is conceptual, not verified against code in this repo. A previously listed URL was removed because it served an unrelated InterviewIQ application. No verified live deployment is currently linked. Add the frontend/backend implementation, data model, setup instructions, and safe demo data to make the project reproducible.
+
+## Live concept preview
+
+[Open the interactive prototype](https://kalyan870.github.io/AI-ASSISTANT-FOR-PMS/). This is a static concept preview using sample data, not a production backend. See the limitation notice in the app.
+
