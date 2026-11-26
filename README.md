@@ -26,6 +26,11 @@ Property managers need a clear view of their properties, tenants, payments, and 
 
 ## Architecture
 
+![AI-ASSISTANT-FOR-PMS architecture map](docs/images/ai-assistant-for-pms-architecture.png)
+
+[Architecture notes](docs/architecture.md) · [Editable SVG](docs/images/ai-assistant-for-pms-architecture.svg)
+
+
 The system is designed around a modern full-stack workflow with a responsive frontend, application services, data management, and AI-assisted analysis.
 
 ![Pulse PMS interface](Screenshot%202026-05-11%20160310.png)
